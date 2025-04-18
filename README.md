@@ -19,5 +19,4 @@ An AI-powered FinOps agent that helps optimize AWS infrastructure costs and prov
 - Required AWS services:
   - AWS Trusted Advisor
   - AWS Cost Optimization Hub
-  - AWS Support API access
 
