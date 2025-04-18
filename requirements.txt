@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+boto3
+pandas
+Pillow
+langchain
+langgraph
+
+# Note: Additional dependencies may be needed depending on your specific AWS Bedrock setup
